@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "prod": "poorni-b7b2e",
+    "default": "poorni-b7b2e"
+  },
+  "targets": {},
+  "etags": {}
+}
